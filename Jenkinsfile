@@ -1,4 +1,4 @@
-pipleine {
+pipeline {
     agent { label 'build'
     }
         stages {
